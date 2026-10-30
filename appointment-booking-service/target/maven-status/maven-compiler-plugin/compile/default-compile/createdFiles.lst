@@ -1,0 +1,15 @@
+com\ritvik\appointmentbooking\exception\AppointmentAlreadyCancelledException.class
+com\ritvik\appointmentbooking\Main.class
+com\ritvik\appointmentbooking\dto\AppointmentResponse.class
+com\ritvik\appointmentbooking\controller\AppointmentController.class
+com\ritvik\appointmentbooking\dto\ApiErrorResponse.class
+com\ritvik\appointmentbooking\service\AppointmentService.class
+com\ritvik\appointmentbooking\dto\BookAppointmentRequest.class
+com\ritvik\appointmentbooking\model\Appointment.class
+com\ritvik\appointmentbooking\exception\AppointmentNotFoundException.class
+com\ritvik\appointmentbooking\exception\InvalidAppointmentException.class
+com\ritvik\appointmentbooking\exception\AppointmentConflictException.class
+com\ritvik\appointmentbooking\repository\AppointmentRepository.class
+com\ritvik\appointmentbooking\exception\GlobalExceptionHandler.class
+com\ritvik\appointmentbooking\repository\InMemoryAppointmentRepository.class
+com\ritvik\appointmentbooking\model\AppointmentStatus.class
